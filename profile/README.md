@@ -23,7 +23,7 @@ Ce cours est destiné à des étudiants de L3 en Informatique ou Mathématiques,
 
 Le responsable du module est Matthieu Perrin.
 
-Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h20) sont les suivants :
+Les volumes horaires du module à Nantes Université (séances de 1h20) sont les suivants :
 - Cours magistraux : 20h
 - Travaux dirigés : 20h
 
@@ -48,7 +48,7 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
   - Classes de complexité P et NP
   - Problème SAT
   - Théorème de Cook
-  - Problèmes NP-durs et NP-complets
+  - Problèmes NP-difficiles et NP-complets
 
 ### Résultats d’apprentissage
 
@@ -56,8 +56,14 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - Comprendre les fondements de la théorie de la calculabilité, y compris l'équivalence entre les modèles de calcul (machines de Turing et fonctions calculables) et comment ils peuvent être utilisés pour décrire la notion de calculabilité et les problèmes indécidables.
 - Modéliser des algorithmes simples sous la forme d'une machine de Turing.
 - Décrire les classes de complexité P et NP et reconnaître des problèmes NP-complets.
-- Appliquer les techniques de réduction de problèmes pour montrer que certains problèmes sont indécidables et pour établir des propriétés des problèmes indécidables.
-- Appliquer les techniques de réduction pour montrer que certains problèmes sont NP-durs.
+- Appliquer les techniques de réduction pour montrer que certains problèmes sont indécidables ou NP-difficiles.
+
+### Prérequis
+
+Ce cours suppose une bonne maîtrise de notions fondamentales en informatique et en mathématiques :
+- logique et raisonnement mathématique (récurrence, ensembles, relations) ;
+- théorie des langages formels (langages, automates déterministes et non déterministes, grammaires algébriques) ;
+- algorithmique de base et programmation impérative.
 
 ### Bibliographie
 
@@ -68,7 +74,7 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 
 ## Cours lié
 
-Ce cours a été conçus comme la deuxième partie d'un cours sur les fondements de la calculabilité en informatique théorique. 
+Ce cours a été conçu comme la deuxième partie d'un cours sur les fondements de la calculabilité en informatique théorique. 
 Il est précédé par un cours de [Langages et Automates](https://github.com/LangagesEtAutomates) en L2, dédié aux langages rationnels et algébriques. 
 
 ---

@@ -5,7 +5,7 @@ Each public repository includes its own `LICENSE.txt` containing the full legal 
 (CC BY-SA 4.0 for teaching materials).
 
 **Author:** Matthieu Perrin  
-**Copyright:** © 2025 Matthieu Perrin
+**Copyright:** © 2026 Matthieu Perrin
 
 ---
 
@@ -43,7 +43,8 @@ The following illustrations were generated using **OpenAI's DALL·E** model.
 These images are **original works** created by the project author using prompts designed specifically for educational purposes.
 They are licensed under the **Creative Commons Attribution–ShareAlike 4.0 International** (CC BY-SA 4.0), to the extent permitted by applicable law.
 
-According to OpenAI’s current terms of use, DALL·E outputs are not subject to additional copyright restrictions beyond those of this project’s license
+According to OpenAI’s current terms of use, DALL·E outputs are owned by the user who generated them and do not carry additional copyright restrictions.
+Their redistribution in this repository is therefore governed solely by the license stated here.
 
 - `CM/src/img/barber.png`
 - `CM/src/img/Barbershop.png`
@@ -57,14 +58,21 @@ According to OpenAI’s current terms of use, DALL·E outputs are not subject to
 
 ### External illustrations
 
-The following images are **not part of the project** and are shared according to their own license.
-
-- `CM/src/img/Chomsky.jpg` — **CC BY-SA 2.0** (Augusto Starita, 2015)
-  <https://commons.wikimedia.org/wiki/File:Noam_Chomsky_portrait_2015.jpg>
+The following images are **not part of this repository’s copyrighted content** and are shared according to their own license.
+- `CM/src/img/Analytical.jpg` — **CC BY-SA 2.5** (Bruno Barral, 2009)
+  <https://commons.wikimedia.org/wiki/File:AnalyticalMachine_Babbage_London.jpg>
+- `CM/src/img/Anticythere.jpg` — **CC BY-SA 3.0** (Marsyas, 2005)
+  <https://commons.wikimedia.org/wiki/File:NAMA_Machine_d%27Anticyth%C3%A8re_1.jpg>
 - `CM/src/img/Aristote.jpg` — **CC BY-SA 2.0** (Marie-Lan NGuyen, 2010) 
   <https://commons.wikimedia.org/wiki/File:Buste_Aristote_Bibliotheque_Mazarine_Paris.jpg>
+- `CM/src/img/Brooks.jpg` — **CC BY-SA 3.0** (SD&M, 2007)
+  <https://commons.wikimedia.org/wiki/File:Fred_Brooks.jpg>
 - `CM/src/img/Cantor.jpg` — **Public domain**  
   <https://commons.wikimedia.org/wiki/File:Georg_Cantor2.jpg>
+- `CM/src/img/Chomsky.jpg` — **CC BY-SA 2.0** (Augusto Starita, 2015)
+  <https://commons.wikimedia.org/wiki/File:Noam_Chomsky_portrait_2015.jpg>
+- `CM/src/img/Cook.jpg` — **CC BY-SA 3.0** (Jiří Janíček, 2008)
+  <https://commons.wikimedia.org/wiki/File:Prof.Cook.jpg>
 - `CM/src/img/Descartes.jpg` — **Public domain**  
   <https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren\%C3\%A9_Descartes.jpg>
 - `CM/src/img/Elements.jpg` — **Public domain**  
@@ -73,12 +81,20 @@ The following images are **not part of the project** and are shared according to
   <https://commons.wikimedia.org/wiki/File:Young_frege.jpg>
 - `CM/src/img/Godel.jpg` — **Public domain**  
   <https://commons.wikimedia.org/wiki/File:Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg>
+- `CM/src/img/Hartmanis.jpg` — **CC BY-SA 3.0** (Wolfgang Hunscher, 2002)
+  <https://commons.wikimedia.org/wiki/File:Juris_Hartmanis(2002).jpg>
 - `CM/src/img/Hilbert.jpg` — **Public domain**  
   <https://commons.wikimedia.org/wiki/File:Hilbert.jpg>
+- `CM/src/img/Karp.jpg` — **CC BY-SA 2.0** (Rama, 2009)
+  <https://commons.wikimedia.org/wiki/File:Karp_mg_7725-b.cr2.jpg>
 - `CM/src/img/Kleene.jpg` — **Public domain** (Harold N. Hone, Madison, Wisconsin, circa 1963)  
   <https://commons.wikimedia.org/wiki/File:Stephen_Cole_Kleene_circa_1963.tif>
+- `CM/src/img/Levin.jpg` — **CC BY-SA 3.0** (Sergio01, 2010)
+  <https://commons.wikimedia.org/wiki/File:LeonidLevin2010.jpg>
 - `CM/src/img/Lindemann.jpg` — **Public domain**  
   <https://commons.wikimedia.org/wiki/File:Carl_Louis_Ferdinand_von_Lindemann.jpg>
+- `CM/src/img/Pascaline.jpg` — **CC BY-SA 3.0** (David Monniaux, 2005)
+  <https://commons.wikimedia.org/wiki/File:Arts_et_Metiers_Pascaline_dsc03869.jpg>
 - `CM/src/img/plimpton.jpg` — **Public domain**  
   <https://www.sciencesetavenir.fr/archeo-paleo/archeologie/la-trigonometrie-version-babylonienne_116888>
 - `CM/src/img/post.jpg` — **Public domain**  
@@ -88,7 +104,9 @@ The following images are **not part of the project** and are shared according to
 - `CM/src/img/rhind.png` — **Public domain**  
   <https://old.maa.org/press/periodicals/convergence/mathematical-treasure-the-rhind-and-moscow-mathematical-papyri>
 - `CM/src/img/Russell.jpg` — **Public domain**  
-  <https://commons.wikimedia.org/wiki/File:Bertrand_Russell_photo.jpg?uselang=fr>
+  <https://commons.wikimedia.org/wiki/File:Bertrand_Russell_photo.jpg>
+- `CM/src/img/Schutzenberger.jpeg` — **CC BY-SA 2.0** (Konrad Jacobs, 1972)
+  <https://commons.wikimedia.org/wiki/File:Sch\%C3\%BCtzenberger.jpeg>
 - `CM/src/img/Scott.jpg` — **CC BY-SA 2.5** (Andrej Bauer, 2003)  
   <https://commons.wikimedia.org/wiki/File:Scott_Dana_small.jpg>
 - `CM/src/img/Tablet.jpg` — **Public domain**  (grey background removed)
@@ -99,6 +117,8 @@ The following images are **not part of the project** and are shared according to
   <https://commons.wikimedia.org/wiki/File:VHS_cassette_tape_12.JPG>
 - `CM/src/img/Zermelo.jpg` — **Public domain**  
   <https://commons.wikimedia.org/wiki/File:Ernst_Zermelo_1900s.jpg>
+- `CM/src/img/Zuse.jpg` — **CC BY-SA 4.0** (Mike Peel, 2017)
+  <https://commons.wikimedia.org/wiki/File:German_Museum_of_Technology,_Berlin_2017_024.jpg>
 
 ### Third-party trademarks (logotypes)
 
@@ -111,12 +131,10 @@ It **remains a registered trademark** of its respective owner.
 
 ### Images not included in the repository
 
-The following images are **not stored in this repository** and are **not redistributed** in compiled artifacts.  
-They may be downloaded locally at build time or referenced by URL for purely educational, non-commercial use,  
-under the applicable copyright exceptions (e.g., fair use or fair dealing depending on jurisdiction).
+The following images are **not stored in this repository** and are therefore **not redistributed** in compiled artifacts.  
+They may be downloaded locally at build time or referenced by URL exclusively for **in-class, educational display**,  
+which generally falls under copyright exceptions that apply to teaching activities (depending on jurisdiction).
 
-- `CM/src/img/imitation_game.jpg` — movie poster  
-  <https://m.media-amazon.com/images/I/91PLAd9FpiL._AC_SL1500_.jpg>
 - `CM/src/img/Church.jpg` —  
   <https://en.wikipedia.org/wiki/File:Alonzo_Church.jpg>
 - `CM/src/img/Strachey.jpg` — 
