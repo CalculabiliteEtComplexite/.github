@@ -47,14 +47,14 @@ According to OpenAI’s current terms of use, DALL·E outputs are owned by the u
 Their redistribution in this repository is therefore governed solely by the license stated here.
 
 - `CM/src/img/barber.png`
-- `CM/src/img/Barbershop.png`
+- `CM/src/img/Barbershop.jpg`
 - `CM/src/img/Bob.png`
 - `CM/src/img/Carole.png`
-- `CM/src/img/MachineRoom.png`
+- `CM/src/img/MachineRoom.jpg`
 - `CM/src/img/Robot.png`
-- `CM/src/img/Salon.png`
+- `CM/src/img/Salon.jpg`
 - `CM/src/img/shaving.png`
-- `CM/src/img/Village.png`
+- `CM/src/img/Village.jpg`
 
 ### External illustrations
 
